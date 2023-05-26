@@ -36,7 +36,8 @@ WHEN I open the `logo.svg` file in a browser
 
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Example
-![logo](https://github.com/Gcruz10/OOPS-SVG/assets/127717256/a209bca4-e081-4435-8702-956e43d6d2c7)
+
+![Screenshot (10)](https://github.com/Gcruz10/OOPS-SVG/assets/127717256/479883c0-a8dc-431f-8a78-f08366e38ef3)
 
 ## Links 
 https://drive.google.com/file/d/1GqVcA52pQ3wELExUY8_vBfF7EAnpEjgv/view
